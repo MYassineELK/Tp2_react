@@ -1,24 +1,12 @@
 import logo from './logo.svg';
-import './App.css';
+import Tp2_react from './Tp2_react/Tp2_react';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Tp2_react/>
     </div>
+    
   );
 }
 
