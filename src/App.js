@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import Tp2_react from './Tp2_react/Tp2_react';
+import Tp2_react from './Tp2/Tp2_react';
 
 function App() {
   return (
