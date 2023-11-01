@@ -20,7 +20,7 @@ export default function Tp2_react() {
     <div>
         <center><h1>Tp2_react</h1></center>
        <center>
-       <div className='col-7'>
+       <div className='col-7' style={{margin:"auto"}}>
         <span className='row '>
             <center><h3>{counts}</h3></center>
         <input type="button" className='btn button col-1 b1' onClick={add} value="👈" />
